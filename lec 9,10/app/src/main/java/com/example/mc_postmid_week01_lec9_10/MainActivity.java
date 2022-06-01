@@ -38,7 +38,8 @@ public class MainActivity extends AppCompatActivity
 
 
 
-    @Override protected void onStart() { super.onStart(); Log.d(TAG, "onStart Activity Main");
+    @Override
+    protected void onStart() { super.onStart(); Log.d(TAG, "onStart Activity Main");
     }
     @Override protected void onResume() { super. onResume(); Log.d(TAG, " onResume Activity Main");
     }
