@@ -29,4 +29,22 @@ public class MainActivity extends AppCompatActivity
         });
 
     }
+
+
+
+    @Override
+    protected void onCreate()
+    {
+        
+    }
+    @Override protected void onStart() { super.onStart(); Log.d(TAG, "onStart Activity Main");
+    }
+    @Override protected void onResume() { super. onResume(); Log.d(TAG, " onResume Activity Main");
+    }
+    @Override protected void onPause() { super. onPause(); Log.d(TAG, " onPause Activity Main");
+    }
+    @Override protected void onStop() { super. onStop(); Log.d(TAG, " onStop Activity Main");
+    }
+    @Override protected void onDestroy() { super. onDestroy(); Log.d(TAG, " onDestroy Activity Main");
+    }
 }
