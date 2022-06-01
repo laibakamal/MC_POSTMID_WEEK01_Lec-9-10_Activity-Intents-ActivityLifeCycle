@@ -5,14 +5,4 @@
     android:id="@+id/buttonOpenSecodActivity"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity2">
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="185dp"
-        android:layout_height="107dp"
-        android:text="LAIBA KAMAL"
-        android:textSize="34sp"
-        tools:layout_editor_absoluteX="122dp"
-        tools:layout_editor_absoluteY="133dp" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+    tools:context=".MainActivity2"/>
