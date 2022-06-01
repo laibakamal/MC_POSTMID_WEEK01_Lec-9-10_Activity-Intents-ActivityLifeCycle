@@ -11,7 +11,7 @@
         android:id="@+id/button2"
         android:layout_width="290dp"
         android:layout_height="85dp"
-        android:text="Click me to go to activity 2"
+        android:text="Click me to go to activity 3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"
