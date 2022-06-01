@@ -8,7 +8,7 @@
     tools:context=".MainActivity2">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btn2"
         android:layout_width="290dp"
         android:layout_height="85dp"
         android:text="Click me to go to activity 3"
